@@ -78,3 +78,4 @@ Developed by: RegisterNumber:*/ 24900622
 
 ![DE HALF ADDER](https://github.com/user-attachments/assets/de6a5eec-9bf2-4fe8-a2cc-1c04d001f0bf)
 
+
