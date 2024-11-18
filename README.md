@@ -1,6 +1,6 @@
 # NMAE : SHREYESHKAR SEKAR
 # REFERENCE NUMBER : 24900622
-# HALF_ADDER_SUBTRACTOR
+# EXP2 : HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
