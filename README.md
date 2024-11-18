@@ -66,6 +66,7 @@ Developed by: RegisterNumber:*/ 24900622
 
 
 **CODING** 
+
 **HALF SUBTRACTOR**
 ![HALF SUBTRACTOR CODE](https://github.com/user-attachments/assets/2f611368-095b-4b6d-9a48-9cb2b770e6f8)
 
