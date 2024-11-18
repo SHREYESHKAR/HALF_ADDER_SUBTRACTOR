@@ -1,3 +1,5 @@
+# NMAE : SHREYESHKAR SEKAR
+# REFERENCE NUMBER : 24900622
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -50,12 +52,29 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+/* Program to design a half adder and half subtracter circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+Developed by: RegisterNumber:*/ 24900622
 
 **RTL Schematic**
+![DE HALF SUBTRACTOR DIA](https://github.com/user-attachments/assets/828b84f7-3c02-4458-9028-91221fb1b934)
+
+![DE HALFADDER DIAGRAM](https://github.com/user-attachments/assets/443f37ed-4f75-4d70-89d3-6797c96fdda3)
+
+**CODING** 
+![HALF SUBTRACTOR CODE](https://github.com/user-attachments/assets/2f611368-095b-4b6d-9a48-9cb2b770e6f8)
+
+![DE HALFADDER CODE](https://github.com/user-attachments/assets/4f108eac-8f4e-4e78-ac90-9f9d392ec1c6)
 
 **Output/TIMING Waveform**
 
+![DE HALF SUBTRACTOR OUTPUT](https://github.com/user-attachments/assets/e47129ca-fa96-4592-ae04-68039049dee3)
+
+![DE HALF ADDER](https://github.com/user-attachments/assets/6fd8d8e9-6451-4268-9cd1-2fedc4f4db02)
+
 **Result:**
+
+![DE HALF SUBTRACTOR OUTPUT](https://github.com/user-attachments/assets/a9064f8a-7218-4834-a505-774d9ff63d33)
+
+![DE HALF ADDER](https://github.com/user-attachments/assets/de6a5eec-9bf2-4fe8-a2cc-1c04d001f0bf)
+
