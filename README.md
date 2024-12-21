@@ -1,6 +1,6 @@
 # NAME : SHREYESHKAR SEKAR
 # REFERENCE NUMBER : 24900622
-# EXP2 : HALF_ADDER_SUBTRACTOR
+# EXP 3 : HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
